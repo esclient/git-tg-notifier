@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"context"
 	"fmt"
-	"html/template"
 	"log"
+	"text/template"
 
 	"github.com/esclient/git_tg_notifier/internal/model"
 )

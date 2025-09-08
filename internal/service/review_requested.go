@@ -3,10 +3,10 @@ package service
 import (
 	"bytes"
 	"fmt"
-	"html/template"
 	"log"
 	"sort"
 	"strings"
+	"text/template"
 
 	"github.com/esclient/git_tg_notifier/internal/model"
 )
